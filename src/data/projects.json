@@ -1,0 +1,18 @@
+[
+  {
+    "title": "AppWriteBlog App",
+    "imageSrc": "projects/ProjectA.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://app-write-blog-mu.vercel.app/",
+    "source": "https://github.com/Blazeiscoding/AppWriteBlog"
+  },
+  {
+    "title": "Youtube Backend",
+    "imageSrc": "projects/project.png",
+    "description": "This is project i am currently working on. Studying JavaScript as Backend ",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "/",
+    "source": "https://github.com/Blazeiscoding/Backend"
+  }
+]
