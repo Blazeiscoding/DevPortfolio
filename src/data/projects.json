@@ -2,7 +2,7 @@
   {
     "title": "AppWriteBlog App",
     "imageSrc": "projects/ProjectA.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "In this project i created an Blog app with the use of Appwrite as a backend and React.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://app-write-blog-mu.vercel.app/",
     "source": "https://github.com/Blazeiscoding/AppWriteBlog"
@@ -11,8 +11,24 @@
     "title": "Youtube Backend",
     "imageSrc": "projects/project.png",
     "description": "This is project i am currently working on. Studying JavaScript as Backend ",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["React", "Express", "Node"],
     "demo": "/",
     "source": "https://github.com/Blazeiscoding/Backend"
+  },
+  {
+    "title": "Music Academy ",
+    "imageSrc": "projects/mysterymsg.png",
+    "description": "This is a frontend based project with using Accernity UI library and Lucide React. ",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://music-academy-topaz.vercel.app",
+    "source": "https://github.com/Blazeiscoding/Music-Academy"
+  },
+  {
+    "title": "Mystery Msg",
+    "imageSrc": "projects/musicacademy.png",
+    "description": "This is my full stack application , created with Nextjs and MongoDB. A way to convery ur msgs ",
+    "skills": ["React", "Express", "Node", "Next.js"],
+    "demo": "https://mystery-msg.vercel.app/dashboard",
+    "source": "https://github.com/Blazeiscoding/MysteryMsg"
   }
 ]

@@ -18,5 +18,18 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  }]
+  },
+  {
+    "title": "NextJS",
+    "imageSrc": "skills/nextjs-icon.png"
+  },
+  {
+    "title": "Cloudinary",
+    "imageSrc": "skills/pngegg.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql-server.png"
+  }
+  ]
   
