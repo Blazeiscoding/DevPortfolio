@@ -28,7 +28,7 @@
     "imageSrc": "projects/musicacademy.png",
     "description": "This is my full stack application , created with Nextjs and MongoDB. A way to convey your msgs ",
     "skills": ["React", "Express", "Node", "Next.js"],
-    "demo": "https://mystery-msg.vercel.app/dashboard",
+    "demo": "mystery-msg.vercel.app",
     "source": "https://github.com/Blazeiscoding/MysteryMsg"
   }
 ]
