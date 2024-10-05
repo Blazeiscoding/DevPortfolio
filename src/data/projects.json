@@ -34,7 +34,7 @@
   {
     "title": "SaaS Product",
 		"description": "This is my attempt to create an SaaS product using Cloudinary and Nextjs.",
-		"imageSrc": "/assets/images/projects/saas.png",
+		"imageSrc": "projects/saas.png",
     "skills": ["React", "Node", "Next.js"],
 		"demo": "https://saas-project-pink.vercel.app/"
   }
