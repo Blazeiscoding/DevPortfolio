@@ -30,5 +30,12 @@
     "skills": ["React", "Express", "Node", "Next.js"],
     "demo": "mystery-msg.vercel.app",
     "source": "https://github.com/Blazeiscoding/MysteryMsg"
+  },
+  {
+    "title": "SaaS Product",
+		"description": "This is my attempt to create an SaaS product using Cloudinary and Nextjs.",
+		"imageSrc": "/assets/images/projects/saas.png",
+    "skills": ["React", "Node", "Next.js"],
+		"demo": "https://saas-project-pink.vercel.app/"
   }
 ]
